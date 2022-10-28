@@ -103,6 +103,10 @@ footer{
     height: 100%;
     text-decoration:none;
     color: white;
+    
+}
+.foot:hover{
+    color: white;
 }
 
 
